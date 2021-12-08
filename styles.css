@@ -1,0 +1,41 @@
+#flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#flex-container1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box1{
+  align-items: center;
+  background-color:#DA70D6
+}
+
+
+body{
+background-color:#DDA0DD;
+}
+hr {
+  background-color:#DA70D6;
+  border-style: none;
+  border-top: 10px dotted Lavender;
+  height: 2px;
+  width: 100%;
+
+}
+h1 {
+  background-color:#DA70D6;
+  font-family:monospace;
+  font-weight: normal;
+  line-height: 1;
+  color: #FFD700
+}
+h2{
+  color:#E0FFFF
+}
+h3{
+  color: #FFF0F5
+}
